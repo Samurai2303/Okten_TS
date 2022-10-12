@@ -1,0 +1,23 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4",
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samurai2303/Typescript_lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samurai2303/Typescript_lessons/issues"
+  },
+  "homepage": "https://github.com/Samurai2303/Typescript_lessons#readme"
+}
